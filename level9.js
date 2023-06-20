@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: ' Jag kan i bästa fall låta göra ett par skinnhandskar av pälsen.'
+      img: ' 200 - 130'
     },
     {
       name: '1',
-      img: "At best, I can have a pair of leather gloves made from the fur."
+      img: "70"
     },
     {
       name: '2',
-      img: 'Hör på, sa då katten till honom. '
+      img: '72 + 25'
     },
     {
       name: '2',
-      img: " Listen, the cat then told him. "
+      img: " 97 "
     },
     {
       name: '3',
-      img: 'Döda mig inte.'
+      img: '64 + 15'
     },
     {
       name: '3',
-      img: "Do not kill me. "
+      img: "79 "
     },
     {
       name: '4',
-      img: 'Låt istället göra ett par stövlar åt mig, så att jag kan visa mig ute bland folk.'
+      img: '32 + 9'
     },
     {
       name: '4',
-      img: 'Instead, have a pair of boots made for me, so that I can show myself out among people.'
+      img: '41'
     },
     {
       name: '5',
-      img: 'Då kommer du snart att få hjälp.'
+      img: '80 + 10'
     },
     {
       name: '5',
-      img: 'Then you will soon get help.      '
+      img: '90  '
     },
     {
       name: '6',
-      img: 'Mjölnarsonen blev förvånad över att hans katt kunde tala och han lät göra ett par stövlar åt honom. '
+      img: '390 - 110 '
     },
     {
       name: '6',
-      img: 'Mjölnarsonen was surprised that his cat could speak and he had a pair of boots made for him. '
+      img: '280'
     },
     {
       name: '7',
-      img: 'När de var färdiga drog katten dem på sig. '
+      img: '918 + 400 '
     },
     {
       name: '7',
-      img: 'When they were done, the cat pulled them on him.'
+      img: '1 318'
     },
     {
       name: '8',
-      img: 'Sedan tog han en säck och hällde ner lite säd i den.'
+      img: '30 + 40'
     },
     {
       name: '8',
-      img: 'Then he took a sack and poured some grain into it.'
+      img: '70'
     },
     {
       name: '9',
-      img: 'Därefter letade han reda på ett snöre, så att han skulle kunna binda ihop säcken.'
+      img: '51 + 40'
     },
     {
       name: '9',
-      img: 'Next he looked for a string, so that he could tie the sack together.'
+      img: '91'
     },
     {
       name: '10',
-      img: "Till sist slängde han upp säcken över axeln och gick sin väg."
+      img: "77 - 25"
     },
     {
       name: '10',
-      img: 'At last he slung the sack over his shoulder and went on his way.'
+      img: '52'
     },
     {
       name: '11',
-      img: "På den tiden regerades landet av en kung som tyckte mycket om rapphöns. "
+      img: "50 + 50 "
     },
     {
       name: '11',
-      img: 'At that time, the country was ruled by a king who was very fond of partridges. '
+      img: '100 '
     },
     {
       name: '12',
-      img: 'Det visste katten och eftersom de var svåra att skjuta, hade han listat ut ett sätt att ta dem till fånga.'
+      img: '80 + 14'
     },
     {
       name: '12',
-      img: 'The cat knew that and since they were hard to shoot, he had figured out a way to capture them. '
+      img: '94'
     }
   ]
 

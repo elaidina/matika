@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Han skickar några rapphöns, som han just har fångat.'
+      img: '20 +130'
     },
     {
       name: '1',
-      img: 'He sends some partridges, which he has just caught.'
+      img: '150'
     },
     {
       name: '2',
-      img: 'Kungen blev överraskad över de härliga, feta rapphönsen och blev utom sig av glädje.'
+      img: '94 - 6'
     },
     {
       name: '2',
-      img: 'The king was surprised by the beautiful, fat partridges and was overjoyed. '
+      img: '88'
     },
     {
       name: '3',
-      img: 'Han lät katten fylla sin säck med så mycket guld som han orkade bära.'
+      img: '70 + 40'
     },
     {
       name: '3',
-      img: 'He let the cat fill his sack with as much gold as he could carry.'
+      img: '110'
     },
     {
       name: '4',
-      img: 'Bär det till din herre och tacka honom för hans gåva.'
+      img: '85 + 8'
     },
     {
       name: '4',
-      img: 'Take it to your master and thank him for his gift.'
+      img: '93'
     },
     {
       name: '5',
-      img: 'Men den stackars mjölnarsonen satt hemma vid fönstret med huvudet lutat mot handen och tänkte:'
+      img: '56 - 42'
     },
     {
       name: '5',
-      img: "But the poor miller's son sat at home by the window with his head leaning on his hand and thought:"
+      img: "14"
     },
     {
       name: '6',
-      img: 'Nu har jag gjort mig av med mina sista slantar på ett par stövlar till katten.'
+      img: '60 + 35'
     },
     {
       name: '6',
-      img: "Now I've got rid of my last pennies on a pair of boots for the cat."
+      img: "95"
     },
     {
       name: '7',
-      img: 'Vad kan jag få ut av det?'
+      img: '73 + 19'
     },
     {
       name: '7',
-      img: 'What can I get out of it?'
+      img: '92'
     },
     {
       name: '8',
-      img: 'Just då kom katten in, tog säcken från ryggen, öppnade den och hällde ut allt guldet framför mjölnarsonen.'
+      img: '1 111 - 111'
     },
     {
       name: '8',
-      img: "Just then the cat came in, took the sack from his back, opened it and poured out all the gold in front of the miller's son."
+      img: "1 000"
     },
     {
       name: '9',
-      img: 'Här får du för stövlarna.'
+      img: '48 + 31'
     },
     {
       name: '9',
-      img: 'Here you get for the boots. '
+      img: '79 '
     },
     {
       name: '10',
-      img: 'Kungen hälsar till dig och tackar för de fina rapphönsen.'
+      img: '46 - 7'
     },
     {
       name: '10',
-      img: 'The king greets you and thanks you for the fine partridges.'
+      img: '39'
     },
     {
       name: '11',
-      img: 'Mjölnarsonen blev glad över så stor rikedom! '
+      img: '77 - 7 '
     },
     {
       name: '11',
-      img: 'Mjölnarsonen was happy about such great wealth! '
+      img: '70'
     },
     {
       name: '12',
-      img: 'Medan katten drog av sig stövlarna, berättade han alltihop. '
+      img: '50 + 48 '
     },
     {
       name: '12',
-      img: 'While the cat pulled off his boots, he told all.'
+      img: '98'
     }
   ]
 
