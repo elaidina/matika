@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Är ni här allesammans? '
+      img: '0,5 + 1,5 '
     },
     {
       name: '1',
-      img: ' Are you all here?'
+      img: ' 2'
     },
     {
       name: '2',
-      img: 'Och så reste hon på sig. '
+      img: '8,2 + 0,8 '
     },
     {
       name: '2',
-      img: 'And then she got up. '
+      img: '9'
     },
     {
       name: '3',
-      img: 'Nej, jag har inte alla!'
+      img: '0,2 + 0,6'
     },
     {
       name: '3',
-      img: "No, I don't have them all! "
+      img: "0,8 "
     },
     {
       name: '4',
-      img: 'Det största ägget ligger där ännu. '
+      img: '1,25 + 1,25 '
     },
     {
       name: '4',
-      img: 'The biggest egg is still there. '
+      img: '2,5 '
     },
     {
       name: '5',
-      img: 'Hur länge skall detta vara?'
+      img: '5,5 + 5,5'
     },
     {
       name: '5',
-      img: 'How long will this last?'
+      img: '11'
     },
     {
       name: '6',
-      img: ' Nu är jag ju jättetrött! Och så lade hon sig igen.'
+      img: ' 14,5 - 4,5'
     },
     {
       name: '6',
-      img: "Now I'm really tired! And then she lay down again."
+      img: "10"
     },
     {
       name: '7',
-      img: 'Nå, hur går det?'
+      img: '100,1 + 10'
     },
     {
       name: '7',
-      img: "Well, how's it going? "
+      img: "110,1 "
     },
     {
       name: '8',
-      img: 'sade en gammal anka, som kom på besök.'
+      img: '10 - 0,1'
     },
     {
       name: '8',
-      img: 'said an old duck, who came to visit.'
+      img: '9,9'
     },
     {
       name: '9',
-      img: 'Det dröjer så länge med det ena ägget! sade ankan, som låg och ruvade. '
+      img: '2,5 - 0,5 '
     },
     {
       name: '9',
-      img: ' takes so long with the one egg! said the duck, who was brooding.'
+      img: ' 2'
     },
     {
       name: '10',
-      img: 'Det vill inte gå hål på det. '
+      img: '11,5 + 1,5 '
     },
     {
       name: '10',
-      img: "It doesn't want to go through it. "
+      img: "13 "
     },
     {
       name: '11',
-      img: 'Men titta på alla de andra, de är de vackraste ankungar jag någonsin sett.'
+      img: '5 + 6,2'
     },
     {
       name: '11',
-      img: 'But look at all the others, they are the most beautiful ducklings I have ever seen.'
+      img: '11,2'
     },
     {
       name: '12',
-      img: ' Låt mig se det där ägget, som inte vill brista! '
+      img: '80 - 0,5 '
     },
     {
       name: '12',
-      img: "Let me see that egg that won't break!"
+      img: "79,5"
     }
   ]
 

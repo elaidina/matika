@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: "sade den gamla ankan."
+      img: "20%"
     },
     {
       name: '1',
-      img: ' said the old duck. '
+      img: ' 0,2 '
     },
     {
       name: '2',
-      img: "Du skall se att det är ett kalkonägg ! "
+      img: "50% "
     },
     {
       name: '2',
-      img: 'You will see that it is a turkey egg!'
+      img: '0,5'
     },
     {
       name: '3',
-      img: 'På det sättet blev jag också lurad en gång.'
+      img: '0.01'
     },
     {
       name: '3',
-      img: " In that way, I was also cheated once."
+      img: "1%"
     },
     {
       name: '4',
-      img: "Får jag se på ägget!"
+      img: "30%"
     },
     {
       name: '4',
-      img: 'Can I see the egg!'
+      img: '0,3'
     },
     {
       name: '5',
-      img: 'Jo, det är ett kalkonägg!'
+      img: '1/3'
     },
     {
       name: '5',
-      img: "Yes, it's a turkey egg!"
+      img: "33,33333%"
     },
     {
       name: '6',
-      img: "Låt du det ligga och lär de andra barnen simma!"
+      img: "1/4"
     },
     {
       name: '6',
-      img: 'Leave it alone and teach the other children to swim!     '
+      img: '25%     '
     },
     {
       name: '7',
-      img: 'Jag vill ändå ligga litet längre på det, sade den ruvande ankan.'
+      img: '100%'
     },
     {
       name: '7',
-      img: ' I still want to stay a little longer on it, said the brooding duck. '
+      img: ' 1 '
     },
     {
       name: '8',
-      img: 'Har jag nu legat så länge, så kan jag ligga den återstående tiden med.'
+      img: '9/10'
     },
     {
       name: '8',
-      img: "If I've been lying for that long, I can lie for the rest of the time."
+      img: "90%"
     },
     {
       name: '9',
-      img: 'Var så god! '
+      img: '5% '
     },
     {
       name: '9',
-      img: 'You are welcome! '
+      img: '5/100 '
     },
     {
       name: '10',
-      img: 'sade den gamla ankan och så gick hon.'
+      img: '1/10'
     },
     {
       name: '10',
-      img: 'said the old duck, and off she went.'
+      img: '10%'
     },
     {
       name: '11',
-      img: 'Äntligen brast det stora ägget. '
+      img: '32% '
     },
     {
       name: '11',
-      img: 'Finally the big egg cracked. '
+      img: '0,32'
     },
     {
       name: '12',
-      img: 'Pip! pip! sade ungen och ramlade ut.'
+      img: '55%'
     },
     {
       name: '12',
-      img: ' Beep! beep! said the kid, falling out. '
+      img: ' 0,55'
     }
   ]
 

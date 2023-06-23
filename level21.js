@@ -3,99 +3,51 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Vattnet gick över huvudet på dem men de kom snabbt upp igen och flöt så vackert.'
+      img: 'Miška si spoří peníze. V prasátku už má 67 korun. Od babičky teď dostala 20 korun. Kolik korun má teď?'
     },
     {
       name: '1',
-      img: 'The water went over their heads but they quickly came back up and floated so beautifully. '
+      img: '87 '
     },
     {
       name: '2',
-      img: 'Benen gick av sig själva.'
+      img: 'Na zahradě roste 35 jabloní a 28 hrušek. Kolik ovocných stromů tam roste?'
     },
     {
       name: '2',
-      img: 'The legs went off by themselves.'
+      img: '63'
     },
     {
       name: '3',
-      img: 'Alla var ute, den fula, grå ungen simmade med.'
+      img: 'Mirka přečte za týden 83 stránek, Ondřej přečte 59 stránek. O kolik míň přečte Ondřej za týden? '
     },
     {
       name: '3',
-      img: 'Everyone was out, the ugly, gray kid was swimming along.'
+      img: '24'
     },
     {
       name: '4',
-      img: 'Nej, det är inte någon kalkon! sade hon.'
+      img: 'Adam má dva sešity. V prvním zapsal 9 stránek a v druhém o 5 stránek víc. Kolik stran už zapsal?'
     },
     {
       name: '4',
-      img: "No, it's not a turkey! she said. "
+      img: "23 "
     },
     {
       name: '5',
-      img: 'Se bara, hur vackert han använder benen och hur rak han håller sig! '
+      img: 'Denis koupil dvě zmrzliny. První stála 18 korun a druhá 11 korun. Kolik mu vydali, když platil 50-korunou? '
     },
     {
       name: '5',
-      img: ' Just look how beautifully he uses his legs and how straight he stands! '
+      img: ' 21 '
     },
     {
       name: '6',
-      img: ' Det är min egen unge.'
+      img: 'Mamička má 43 let. Je o 6 let mladší než táta. Kolik let je tátovi?'
     },
     {
       name: '6',
-      img:  "It's my own kid. "
-    },
-    {
-      name: '7',
-      img: 'I själva verket är han ändå ganska vacker, när man riktigt betraktar honom. '
-    },
-    {
-      name: '7',
-      img: 'In fact, he is still quite handsome, when you really look at him. '
-    },
-    {
-      name: '8',
-      img: 'Kvack! Kvack! kom nu med, så skall jag föra er ut i världen och presentera er i ankgården.'
-    },
-    {
-      name: '8',
-      img: ' Quack! Quack! now come along, and I will take you out into the world and introduce you to the duck farm.'
-    },
-    {
-      name: '9',
-      img: 'Så kom de in i ankgården.'
-    },
-    {
-      name: '9',
-      img: 'Then they entered the duck yard. '
-    },
-    {
-      name: '10',
-      img: 'Det var ett förskräckligt väsen där inne eftersom det var två familjer, som slogs om ett ålhuvud.'
-    },
-    {
-      name: '10',
-      img: ' There was a terrible commotion in there because there were two families fighting over an eel head.'
-    },
-    {
-      name: '11',
-      img: 'Se, så går det till i världen! sade ankmodern och slickade sig om näbben. '
-    },
-    {
-      name: '11',
-      img: "See, that's how the world works! said the mother duck, licking her beak."
-    },
-    {
-      name: '12',
-      img: 'Se till att sköta er och nig med halsen för den gamla ankan där borta! '
-    },
-    {
-      name: '12',
-      img: 'Be sure to watch yourselves and your necks for that old duck over there! '
+      img:  "49 "
     }
   ]
 

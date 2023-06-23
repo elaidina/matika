@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Han var så stor och ful.'
+      img: '10 + x = 20'
     },
     {
       name: '1',
-      img: 'He was so big and ugly. '
+      img: '10 '
     },
     {
       name: '2',
-      img: 'Ankan såg på honom.'
+      img: '8 . x = 64'
     },
     {
       name: '2',
-      img: 'The duck looked at him.'
+      img: '8'
     },
     {
       name: '3',
-      img: 'Det var då en förskräckligt stor ankunge den där! sade hon. '
+      img: '99 : 11 = x '
     },
     {
       name: '3', 
-      img: 'That was a terribly big duckling there! she said.'
+      img: '9'
     },
     {
       name: '4',
-      img: 'Ingen av de andra ser ut så. '
+      img: '100 - x = 25 '
     },
     {
       name: '4',
-      img: 'None of the others look like that.'
+      img: '75'
     },
     {
       name: '5',
-      img: 'Det är väl aldrig en kalkonunge !'
+      img: '60 : 20 = x'
     },
     {
       name: '5',
-      img: "It's never a baby turkey!"
+      img: "3"
     },
     {
       name: '6',
-      img: 'Nå ja, det kommer vi snart underfund med.'
+      img: '56 : x = 8'
     },
     {
       name: '6',
-      img: "Well, we'll figure that out soon."
+      img: "7"
     },
     {
       name: '7',
-      img: 'I vattnet skall han, om jag så måste sparka ut honom.'
+      img: 'x . 8 = 48'
     },
     {
       name: '7',
-      img: 'In the water he shall, if I have to kick him out.'
+      img: '6'
     },
     {
       name: '8',
-      img: 'Nästa dag var det ett härligt väder.'
+      img: '56 + x = 62'
     },
     {
       name: '8',
-      img: 'The next day the weather was beautiful. '
+      img: '6 '
     },
     {
       name: '9',
-      img: 'Solen sken på alla de gröna kardborrarna.'
+      img: '120 + x = 200'
     },
     {
       name: '9',
-      img: 'The sun shone on all the green burdocks.'
+      img: '80'
     },
     {
       name: '10',
-      img: 'Ankmodern med hela sin familj gick ner till kanalen.'
+      img: '98 - x = 80'
     },
     {
       name: '10',
-      img: 'The mother duck with her whole family went down to the canal.'
+      img: '18'
     },
     {
       name: '11',
-      img: 'Plask! Hon sprang ut i vattnet. '
+      img: '36 - x = 24 '
     },
     {
       name: '11',
-      img: 'Splash! She ran into the water.'
+      img: '12'
     },
     {
       name: '12',
-      img: 'Kvack! kvack! sade hon och den ena ankungen efter den andra plumsade ut i vattnet efter henne.'
+      img: '87 + x = 101'
     },
     {
       name: '12',
-      img: "Quack! quack! she said, and one duckling after another plunged into the water after her. "
+      img: "14 "
     }
   ]
 

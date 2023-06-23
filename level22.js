@@ -3,99 +3,51 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Hon är den förnämaste av alla här.'
+      img: 'Anička koupila 6 vstupenek do kina po 200 korun. Kolik korun zaplatila?'
     },
     {
       name: '1',
-      img: 'She is the most distinguished of all here.'
+      img: '1 200'
     },
     {
       name: '2',
-      img: 'Hon är av spanskt blod därför är hon så tjock.'
+      img: 'Miška snědla k večeři 3 buchty. Honzík snědl 2-krát víc. Kolik snědli spolu buchet?'
     },
     {
       name: '2',
-      img: " She is of Spanish blood that's why she is so fat."
+      img: " 9"
     },
     {
       name: '3',
-      img: 'Pass på!'
+      img: 'Mamička rozdělila 15 jablek svým 3 dětem. Kolik jablek dostalo každé dítě?'
     },
     {
       name: '3',
-      img: 'Look out! '
+      img: '5 '
     },
     {
       name: '4',
-      img: ' Inte i hop med benen!'
+      img: ' 11'
     },
     {
       name: '4',
-      img: 'Not messing with the legs! '
+      img: 'Barborka měla 33 barevných náramků. Andrejka měla 3-krát méně. Kolik náramků má Andrejka?'
     },
     {
       name: '5',
-      img: 'En väluppfostrad ankunge sätter ut benen långt ifrån varandra, liksom far och mor.'
+      img: 'Roman koupil 3 knihy po 8 eur a 5 časopisů po 2 eura. Kolik zaplatil za nákup? '
     },
     {
       name: '5',
-      img: 'A well-behaved duckling puts its legs far apart, like father and mother.'
+      img: '34'
     },
     {
       name: '6',
-      img: 'Se så, nig nu och säg kvack!'
+      img: 'Kolik trojic může vytvořit 24 dětí?'
     },
     {
       name: '6',
-      img: 'Look, you now and say quack!'
-    },
-    {
-      name: '7',
-      img: 'Och det gjorde de, men de andra ankorna runt omkring såg på dem och sade helt högt: '
-    },
-    {
-      name: '7',
-      img: 'And they did, but the other ducks around looked at them and said out loud: '
-    },
-    {
-      name: '8',
-      img: 'Se! Nu skall vi få det där följet också! '
-    },
-    {
-      name: '8',
-      img: 'Look! Now we will get that companion too! '
-    },
-    {
-      name: '9',
-      img: 'Precis som om vi inte redan var tillräckligt många! '
-    },
-    {
-      name: '9',
-      img: "Just as if there weren't enough of us already! "
-    },
-    {
-      name: '10',
-      img: 'Och fy, så den där ena ungen ser ut! '
-    },
-    {
-      name: '10',
-      img: 'And wow, what does that one kid look like! '
-    },
-    {
-      name: '11',
-      img: 'Honom kan vi ju inte tåla.'
-    },
-    {
-      name: '11',
-      img: "We can't stand him."
-    },
-    {
-      name: '12',
-      img: ' Och strax flög en anka fram och bet honom i nacken.'
-    },
-    {
-      name: '12',
-      img: ' And immediately a duck flew forward and bit him on the neck.'
+      img: '8'
     }
   ]
 
