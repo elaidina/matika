@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Hon skulle ju ligga på äggen tills ungarna kom ut men nu hade hon tröttnat efter att ha legat så länge utan att få besök. '
+      img: '(20-5) : 3 '
     },
     {
       name: '1',
-      img: 'She was supposed to lie on the eggs until the chicks came out, but now she was tired after lying for so long without visitors.'
+      img: '5'
     },
     {
       name: '2',
-      img: 'De andra ankorna tyckte mera om att simma omkring i kanalerna än att springa upp och tjattra med henne.'
+      img: '(7+6) . 2'
     },
     {
       name: '2',
-      img: 'The other ducks liked swimming around in the canals more than running up and chatting with her.'
+      img: '26'
     },
     {
       name: '3',
-      img: 'Äntligen knakade det i det ena ägget efter det andra : '
+      img: '80 : (2.2.2) '
     },
     {
       name: '3',
-      img: 'Finally, one egg after another cracked:'
+      img: '10'
     },
     {
       name: '4',
-      img: 'Pip! pip! sade det.'
+      img: '7.8 +2'
     },
     {
       name: '4',
-      img: 'Beep! beep! said it.'
+      img: '58'
     },
     {
       name: '5',
-      img: 'Alla äggulorna hade blivit levande och stack ut huvudet.'
+      img: '(14-2) .3'
     },
     {
       name: '5',
-      img: 'All the yolks had come alive and were sticking their heads out.'
+      img: '36'
     },
     {
       name: '6',
-      img: 'Kvack! kvack! '
+      img: '8 . (25 : 5) '
     },
     {
       name: '6',
-      img: 'Quack! quack! '
+      img: '40 '
     },
     {
       name: '7',
-      img: 'sade hon och så kvackade de allt vad de kunde och tittade åt alla sidor under de gröna bladen ...'
+      img: '8 . 8 - 4'
     },
     {
       name: '7',
-      img: 'said she, and so they quacked all they could and looked in every direction under the green leaves, ...'
+      img: '60'
     },
     {
       name: '8',
-      img: "...och modern lät dem titta så mycket de ville, för grönt är bra för ögonen."
+      img: "6 - 2 . 2"
     },
     {
       name: '8',
-      img: '...and the mother let them look as much as they liked, for green is good for the eyes.'
+      img: '2'
     },
     {
       name: '9',
-      img: 'Vad stor världen är! sade alla ungarna för de hade nu mycket bättre svängrum än då de låg inuti ägget.'
+      img: '22 : 2 + 5'
     },
     {
       name: '9',
-      img: 'How big the world is! said all the cubs because they now had much more room to maneuver than when they were inside the egg.'
+      img: '16'
     },
     {
       name: '10',
-      img: 'Tror ni att det här är hela världen?'
+      img: '(8 + 2) . 5'
     },
     {
       name: '10',
-      img: ' Do you think this is the whole world?'
+      img: ' 50'
     },
     {
       name: '11',
-      img: 'sade modern. '
+      img: '45 : 9 + 15 '
     },
     {
       name: '11',
-      img: 'said the mother.'
+      img: '20'
     },
     {
       name: '12',
-      img: ' Den sträcker sig långt på andra sidan trädgården, ända in på prästens ägor,  men där har jag aldrig varit.'
+      img: ' (30 : 5) . 3'
     },
     {
       name: '12',
-      img: "It stretches far on the other side of the garden, right into the priest's property, but I have never been there."
+      img: "18"
     }
   ]
 

@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Allernådigaste konung!'
+      img: '220 + 150'
     },
     {
       name: '1',
-      img: 'Most gracious king! '
+      img: '370 '
     },
     {
       name: '2',
-      img: 'Min herre, greven, badade här i sjön, och just då kom en tjuv och stal hans kläder. '
+      img: '61 - 60 '
     },
     {
       name: '2',
-      img: 'My lord, the count, was bathing here in the lake, and just then a thief came and stole his clothes.'
+      img: '1'
     },
     {
       name: '3',
-      img: 'Nu måste greven stanna i vattnet och kan inte stiga upp.'
+      img: '1 538 + 100'
     },
     {
       name: '3',
-      img: ' Now the count must stay in the water and cannot rise.'
+      img: ' 1 638'
     },
     {
       name: '4',
-      img: 'Då lät kungen genast hämta de allra finaste kläder. '
+      img: '940 - 300'
     },
     {
       name: '4',
-      img: 'Then the king immediately had the finest clothes brought.'
+      img: '640'
     },
     {
       name: '5',
-      img: 'Mjölnarsonen drog på sig dem och måste sedan sätta sig upp hos kungen i vagnen.'
+      img: '72 - 60'
     },
     {
       name: '5',
-      img: 'Mjölnarsonen put them on and then has to sit up with the king in the carriage. .'
+      img: '12'
     },
     {
       name: '6',
-      img: 'Prinsessan blev glad, för hon tyckte om den unge greven.'
+      img: '30 + 80'
     },
     {
       name: '6',
-      img: 'The princess was happy, because she liked the young count.'
+      img: '110'
     },
     {
       name: '7',
-      img: 'Under tiden hade katten sprungit i förväg. Han kom fram till en stor äng. '
+      img: '80 - 20 '
     },
     {
       name: '7',
-      img: 'Meanwhile, the cat had run ahead. He came to a large meadow. '
+      img: '60'
     },
     {
       name: '8',
-      img: 'Där höll folk just på att räfsa hö. '
+      img: '74 + 15 '
     },
     {
       name: '8',
-      img: 'People were just raking hay there. '
+      img: '89 '
     },
     {
       name: '9',
-      img: 'De berättade, att ängen tillhörde den store trollkarlen.'
+      img: '79 - 45'
     },
     {
       name: '9',
-      img: 'They told that the meadow belonged to the great sorcerer.'
+      img: '34'
     },
     {
       name: '10',
-      img: 'Då befallde katten dem:'
+      img: '91'
     },
     {
       name: '10',
-      img: 'Then the cat ordered them:'
+      img: '33 + 58'
     },
     {
       name: '11',
-      img: 'När kungen nu strax kör förbi här och frågar vem som äger ängen, så svara: '
+      img: '91 '
     },
     {
       name: '11',
-      img: ' When the king drives by here and asks who owns the meadow, answer: '
+      img: ' 70 + 21'
     },
     {
       name: '12',
-      img: 'greven! Gör ni inte det, så blir det synd  om er!'
+      img: '46 + 42'
     },
     {
       name: '12',
-      img: " the count! If you don't, it will be a pity for you!"
+      img: " 88"
     }
   ]
 

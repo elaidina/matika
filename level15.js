@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Även det kan jag, skröt trollkarlen.'
+      img: '50 - 60'
     },
     {
       name: '1',
-      img: 'I can do that too, boasted the wizard.'
+      img: '-10'
     },
     {
       name: '2',
-      img: 'Och genast sprang han omkring som en liten mus.'
+      img: '100 - 120'
     },
     {
       name: '2',
-      img: 'And immediately he ran about like a little mouse.'
+      img: '- 20'
     },
     {
       name: '3',
-      img: 'Men vips, så fångade katten musen och åt upp den.'
+      img: '5 - 7'
     },
     {
       name: '3',
-      img: 'But suddenly, the cat caught the mouse and ate it.'
+      img: '-2'
     },
     {
       name: '4',
-      img: 'Under tiden hade vagnen med kungen, prinsessan och greven farit vidare och kom nu till den stora ängen.'
+      img: '1 000 - 2 000'
     },
     {
       name: '4',
-      img: 'In the meantime the carriage with the king, princess and count had moved on and now came to the great meadow.'
+      img: '-1 000'
     },
     {
       name: '5',
-      img: 'Vem äger allt höet?'
+      img: '950 - 1 000'
     },
     {
       name: '5',
-      img: 'Who owns all the hay?'
+      img: '-50'
     },
     {
       name: '6',
-      img: 'frågade kungen.'
+      img: '25 - 50'
     },
     {
       name: '6',
-      img: 'asked the king.'
+      img: '-50'
     },
     {
       name: '7',
-      img: 'Greven, svarade folket, precis som katten hade befallt dem.'
+      img: '15 - 21'
     },
     {
       name: '7',
-      img: 'The count, answered the people, just as the cat had commanded them.'
+      img: '-6'
     },
     {
       name: '8',
-      img: 'Och när de kom fram till det stora sädesfältet och den stora skogen, så sa folket varje gång, att det tillhörde greven.'
+      img: '-5 - 8'
     },
     {
       name: '8',
-      img: 'And when they came to the great cornfield and the great forest, the people said each time that it belonged to the count.'
+      img: '-13'
     },
     {
       name: '9',
-      img: 'Kungen blev förvånad över all denna rikedom.'
+      img: '-5 + 2'
     },
     {
       name: '9',
-      img: 'The king was amazed at all this wealth.'
+      img: '-3'
     },
     {
       name: '10',
-      img: 'Till slut nådde de fram till trollkarlens slott. '
+      img: '-50 + 20 '
     },
     {
       name: '10',
-      img: "Finally they reached the wizard's castle. "
+      img: "-30"
     },
     {
       name: '11',
-      img: 'Katten stod uppe på trappan och väntade på dem. '
+      img: '-50 - 50 '
     },
     {
       name: '11',
-      img: 'The cat was standing on the stairs waiting for them.'
+      img: '-100'
     },
     {
       name: '12',
-      img: 'När vagnen stannade, sprang han fram, öppnade dörren och hälsade dem med:'
+      img: '1 000 - 1 001'
     },
     {
       name: '12',
-      img: 'When the carriage stopped, he ran forward, opened the door and greeted them with:'
+      img: '-1'
     }
   ]
 

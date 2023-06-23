@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Min konung, välkommen till min herres slott. '
+      img: '90 : 10 '
     },
     {
       name: '1',
-      img: "My king, welcome to my master's castle." 
+      img: "9" 
     },
     {
       name: '2',
-      img: 'Den ära som nu visas honom kommer att göra honom lycklig för resten av livet.'
+      img: '81 : 9'
     },
     {
       name: '2',
-      img: 'The honor now shown to him will make him happy for the rest of his life.'
+      img: '9'
     },
     {
       name: '3',
-      img: 'Kungen steg ur och förvånades över den präktiga byggnaden, som nästan var större och vackrare än hans eget slott.'
+      img: '25 : 5'
     },
     {
       name: '3',
-      img: 'The king got out and was amazed at the magnificent building, which was almost bigger and more beautiful than his own castle.'
+      img: '5'
     },
     {
       name: '4',
-      img: 'Men greven förde prinsessan in i en sal som glittrade och glimmade av guld och ädelstenar.'
+      img: '18 : 3'
     },
     {
       name: '4',
-      img: 'But the count led the princess into a hall that glittered and glittered with gold and precious stones. '
+      img: '6 '
     },
     {
       name: '5',
-      img: 'Prinsessan gifte sig med greven, och när kungen dog, blev  mjölnarsonen kung. '
+      img: '36 : 4 '
     },
     {
       name: '5',
-      img: "The princess married the count, and when the king died, the miller's son became king."
+      img: "9"
     },
     {
       name: '6',
-      img: ' Katten i stövlar utnämnde han till sin förnämste minister.'
+      img: ' 100 : 2'
     },
     {
       name: '6',
-      img: 'He named Puss in Boots his chief minister.'
+      img: '50'
     },
     {
       name: '7',
-      img: 'Det var så vackert ute på landet, det var sommar. '
+      img: '40 : 5 '
     },
     {
       name: '7',
-      img: "It was so beautiful out in the country, it was summer. "
+      img: "8 "
     },
     {
       name: '8',
-      img: 'Sädesfälten vajade i vinden. '
+      img: '72 : 8'
     },
     {
       name: '8',
-      img: 'The cornfields swayed in the wind.'
+      img: '9'
     },
     {
       name: '9',
-      img: 'Runt omkring åkrar och ängar låg stora skogar och mitt i skogarna låg djupa sjöar. '
+      img: '56 : 8 '
     },
     {
       name: '9',
-      img: 'All around the fields and meadows were large forests and in the middle of the forests were deep lakes.  '
+      img: '7'
     },
     {
       name: '10',
-      img: "Mitt i solskenet låg ett gammalt slott med djupa kanaler runt omkring. "
+      img: "100 : 4 "
     },
     {
       name: '10',
-      img: 'In the middle of the sunshine was an old castle with deep canals all around it. '
+      img: '25 '
     },
     {
       name: '11',
-      img: "Från muren växte stora kardborrblad som var så höga att små barn kunde stå raka under de största. "
+      img: "60 : 4 "
     },
     {
       name: '11',
-      img: 'From the wall grew large velcro leaves so tall that small children could stand straight under the largest ones.'
+      img: '15'
     },
     {
       name: '12',
-      img: ' Här låg en anka och ruvade på sina ägg. '
+      img: ' 15:2 '
     },
     {
       name: '12',
-      img: 'Here lay a duck incubating her eggs.'
+      img: '7,5'
     }
   ]
 

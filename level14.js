@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Sedan skyndade katten vidare till ett stort sädesfält och en stor skog.'
+      img: '770 - 400'
     },
     {
       name: '1',
-      img: 'Then the cat hurried on to a large cornfield and a large forest. '
+      img: '370 '
     },
     {
       name: '2',
-      img: 'Han befallde folket, som arbetade där, att säga detsamma.'
+      img: '62 + 5'
     },
     {
       name: '2',
-      img: 'He commanded the people who worked there to say the same. '
+      img: '67 '
     },
     {
       name: '3',
-      img: ' Och eftersom han såg så märklig ut, blev folket lite rädda för honom.'
+      img: '57 - 44'
     },
     {
       name: '3',
-      img: ' And because he looked so strange, the people became a little afraid of him.'
+      img: '13'
     },
     {
       name: '4',
-      img: 'Till slut kom katten fram till trollkarlens slott. '
+      img: '1 000 - 350'
     },
     {
       name: '4',
-      img: "Finally the cat arrived at the wizard's castle. "
+      img: "650 "
     },
     {
       name: '5',
-      img: 'Han bugade sig för denne och sa:'
+      img: '23 + 67'
     },
     {
       name: '5',
-      img: 'He bowed to him and said:'
+      img: '90'
     },
     {
       name: '6',
-      img: 'Jag har hört, att du kan förvandla dig till vilket djur som helst.'
+      img: '53 + 26'
     },
     {
       name: '6',
-      img: 'I have heard that you can transform yourself into any animal.'
+      img: '79'
     },
     {
       name: '7',
-      img: 'Men skulle du verkligen kunna förvandla dig till ett  så stort djur som en elefant?'
+      img: '89 - 66'
     },
     {
       name: '7',
-      img: 'But could you really transform into an animal as big as an elephant?'
+      img: '23'
     },
     {
       name: '8',
-      img: 'Jo, det vill jag mena, sa trollkarlen.'
+      img: '74 - 9'
     },
     {
       name: '8',
-      img: "Well, that's what I mean, said the wizard." 
+      img: "65" 
     },
     {
       name: '9',
-      img: 'Och genast stod en elefant framför katten.'
+      img: '32 + 44'
     },
     {
       name: '9',
-      img: 'And immediately an elephant stood in front of the cat.'
+      img: '76'
     },
     {
       name: '10',
-      img: ' Otroligt! utropade denne.'
+      img: ' 42 + 18'
     },
     {
       name: '10',
-      img: 'Unbelievable! he exclaimed.'
+      img: '60'
     },
     {
       name: '11',
-      img: 'Du är bestämt den störste trollkarlen i hela världen. '
+      img: '1 328 + 10 '
     },
     {
       name: '11',
-      img: 'You are definitely the greatest wizard in the whole world.'
+      img: '1 338'
     },
     {
       name: '12',
-      img: 'Men jag kan slå vad om, att du inte kan förvandla dig till ett så litet djur som en mus.'
+      img: '66 + 6'
     },
     {
       name: '12',
-      img: "But I bet you can't turn into an animal as small as a mouse."
+      img: "72"
     }
   ]
 
