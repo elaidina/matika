@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Den stackarn!'
+      img: '53 + 36'
     },
     {
       name: '1',
-      img: ' The poor thing!'
+      img: ' 89'
     },
     {
       name: '2',
-      img: 'han tänkte visst inte på att gifta sig, bara han fick lov att ligga i vassen och dricka litet vatten.'
+      img: '16 + 82'
     },
     {
       name: '2',
-      img: "he certainly didn't think of getting married, only he was allowed to lie in the reeds and drink a little water."
+      img: "98"
     },
     {
       name: '3',
-      img: 'Han väntade flera timmar, innan han såg sig om och så skyndade han bort från mossen allt vad han kunde.'
+      img: '110 - 50'
     },
     {
       name: '3',
-      img: 'He waited several hours before he looked around and then he hurried away from the marsh as fast as he could.'
+      img: '60'
     },
     {
       name: '4',
-      img: 'Han sprang över fält och äng och det var en sådan blåst, att han hade svårt att komma framåt. '
+      img: '89 - 4 '
     },
     {
       name: '4',
-      img: 'He ran across fields and meadows and there was such a wind that he had difficulty moving forward. '
+      img: '85 '
     },
     {
       name: '5',
-      img: 'Fram mot kvällen kom han till en fattig liten bondstuga. '
+      img: '29 + 5 '
     },
     {
       name: '5',
-      img: "Towards evening he came to a poor little peasant's cottage. "
+      img: "34 "
     },
     {
       name: '6',
-      img: 'Den var så eländig, att den inte själv visste åt vilken sida den skulle ramla så den blev stående. '
+      img: '350 + 250 '
     },
     {
       name: '6',
-      img: "It was so miserable that it didn't know which side it was going to fall on so it stayed standing."
+      img: "600"
     },
     {
       name: '7',
-      img: 'Blåsten susade till den grad omkring ankungen, att han måste sätta sig på stjärten för att hålla mot och det blev allt värre och värre. '
+      img: '42 - 30 '
     },
     {
       name: '7',
-      img: 'The wind whizzed around the duckling to such an extent that he had to sit on his tail to hold on and it got worse and worse. '
+      img: '12'
     },
     {
       name: '8',
-      img: 'Nu märkte han, att dörrens ena gångjärn hade lossnat och dörren hängde så snett att han genom springan kunde smyga sig in i rummet och det gjorde han.'
+      img: '57 + 41'
     },
     {
       name: '8',
-      img: "Now he noticed that one of the door's hinges had come loose and the door hung so crooked that he could sneak into the room through the gap, and he did."
+      img: "98"
     },
     {
       name: '9',
-      img: 'Här bodde en gammal gumma med sin katt och sin höna. '
+      img: '95 - 64'
     },
     {
       name: '9',
-      img: 'Here lived an old woman with her cat and her hen.'
+      img: '31'
     },
     {
       name: '10',
-      img: 'Katten, som hon kallade Kisserulten, kunde skjuta rygg och spinna, han gnistrade till och med, ...'
+      img: '81 + 5'
     },
     {
       name: '10',
-      img: 'The cat, which she called Kisserulten, could arch his back and purr, he even sparkled,...'
+      img: '86'
     },
     {
       name: '11',
-      img: '...men då måste man stryka honom mot håren.'
+      img: '4 168 + 5 000'
     },
     {
       name: '11',
-      img: '...but then you had to stroke his hair. '
+      img: '9 168'
     },
     {
       name: '12',
-      img: 'Hönan hade mycket små, korta ben och kallades därför Kyckelikortben.'
+      img: '75 + 22'
     },
     {
       name: '12',
-      img: 'The hen had very small, short legs and was therefore called Chicken Short Legs. '
+      img: '97 '
     }
   ]
 

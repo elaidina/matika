@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Och så plockade hon honom i nacken och hyfsade till honom.'
+      img: '19 - 6'
     },
     {
       name: '1',
-      img: 'And then she picked him by the neck and treated him well.'
+      img: '13'
     },
     {
       name: '2',
-      img: 'De andra ungarna är söta, sade den gamla ankan.'
+      img: '250 + 250'
     },
     {
       name: '2',
-      img: 'The other kids are cute, said the old duck. '
+      img: '500 '
     },
     {
       name: '3',
-      img: 'Känn er nu som hemma här och om ni hittar ett ålhuvud så kan ni ge det till mig.'
+      img: '370 + 320'
     },
     {
       name: '3',
-      img: 'Now feel at home here and if you find an eel head, you can give it to me.'
+      img: '690'
     },
     {
       name: '4',
-      img: 'Den stackars ankungen, som kommit sist ur ägget och var så ful, blev biten, knuffad och hånad av både ankor och höns.'
+      img: '1 000 - 90'
     },
     {
       name: '4',
-      img: 'The poor duckling, who was the last to hatch and was so ugly, was bitten, pushed and mocked by both ducks and hens.'
+      img: '910'
     },
     {
       name: '5',
-      img: 'Han är för stor, sade de allesammans och kalkontuppen, som var född med sporrar...'
+      img: '25 + 34'
     },
     {
       name: '5',
-      img: "He's too big, they all said, and the turkey cock, who was born with spurs..."
+      img: "59"
     },
     {
       name: '6',
-      img: '...och därför trodde sig vara kejsare, blåste upp sig som ett skepp för fulla segel, gick rakt in på honom och så kluckade han och blev helt röd i huvudet.'
+      img: '55'
     },
     {
       name: '6',
-      img: '...and therefore thought he was emperor, puffed up like a ship full sails, went right at him, and then he clucked and turned all red in the head.'
+      img: '57 - 2'
     },
     {
       name: '7',
-      img: 'Den stackars ankungen visste varken hur han skulle stå eller gå. '
+      img: '5 206 '
     },
     {
       name: '7',
-      img: "The poor duckling didn't know how to stand or walk. "
+      img: "5 706 - 500 "
     },
     {
       name: '8',
-      img: 'Han var så ledsen för att han var så ful och ett åtlöje för hela ankgården.'
+      img: '2620'
     },
     {
       name: '8',
-      img: 'He was so sorry for being so ugly and a laughingstock to the whole duck farm.'
+      img: '2 680 - 60'
     },
     {
       name: '9',
-      img: 'Så gick det den första dagen och sedan blev det allt värre och värre.'
+      img: '37 - 16'
     },
     {
       name: '9',
-      img: "That's how it went the first day and then it got worse and worse. "
+      img: "21 "
     },
     {
       name: '10',
-      img: 'Den stackars ankungen blev jagad av dem allihop. '
+      img: '690 - 350 '
     },
     {
       name: '10',
-      img: 'The poor duckling was chased by them all.'
+      img: '340'
     },
     {
       name: '11',
-      img: 'Till och med hans syskon var elaka mot honom och de sade hela tiden :'
+      img: '10 + 60'
     },
     {
       name: '11',
-      img: 'Even his siblings were mean to him and they kept saying: '
+      img: '70'
     },
     {
       name: '12',
-      img: 'Om katten ändå ville ta dig, ditt otäcka spektakel!'
+      img: '350 + 310 '
     },
     {
       name: '12',
-      img: 'If the cat still wanted to take you, you nasty spectacle! '
+      img: '660 '
     }
   ]
 

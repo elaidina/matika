@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: ' Låt honom vara! sade modern. '
+      img: ' 76 - 42 '
     },
     {
       name: '1',
-      img: 'Let him be! said the mother. '
+      img: '34 '
     },
     {
       name: '2',
-      img: 'Han gör ju ingen något ont!'
+      img: '90 - 80'
     },
     {
       name: '2',
-      img: "He doesn't hurt anyone!"
+      img: "10"
     },
     {
       name: '3',
-      img: 'Ja, men han är för stor och ovanlig, sade ankan, som hade bitit honom och därför skall han näpsas.'
+      img: '990 + 10'
     },
     {
       name: '3',
-      img: 'Yes, but he is too big and unusual, said the duck, which had bitten him, and therefore he must be pecked.'
+      img: '1 000'
     },
     {
       name: '4',
-      img: 'Det är vackra barn mor har, sade den gamla ankan.'
+      img: '65 + 7'
     },
     {
       name: '4',
-      img: 'Mother has beautiful children, said the old duck. '
+      img: '72'
     },
     {
       name: '5',
-      img: 'Alla är vackra, så när som på den där ena.'
+      img: '63 - 50'
     },
     {
       name: '5',
-      img: 'All are beautiful, so when on that one. '
+      img: '13 '
     },
     {
       name: '6',
-      img: 'Den har inte lyckats.'
+      img: '87 - 42'
     },
     {
       name: '6',
-      img: 'It has not succeeded. '
+      img: '45 '
     },
     {
       name: '7',
-      img: 'Jag skulle önska, att hon kunde göra om den.'
+      img: '74 + 20'
     },
     {
       name: '7',
-      img: ' I wish she could redo it.'
+      img: ' 94'
     },
     {
       name: '8',
-      img: 'Det går inte för sig, ers nåd! sade ankmodern.'
+      img: '55 + 33'
     },
     {
       name: '8',
-      img: "It doesn't work, your grace! said the mother duck. "
+      img: "88 "
     },
     {
       name: '9',
-      img: 'Han är inte vacker, men han är en innerligt god varelse...'
+      img: '93 - 6'
     },
     {
       name: '9',
-      img: 'He is not handsome, but he is a heartily good creature,...'
+      img: '87'
     },
     {
       name: '10',
-      img: '...och simmar lika vackert som någon av de andra, ja, till och med litet bättre. '
+      img: '64 + 25 '
     },
     {
       name: '10',
-      img: '...and swims as beautifully as any of the others, yea, even a little better. '
+      img: '89 '
     },
     {
       name: '11',
-      img: 'Han har legat för länge i ägget. '
+      img: '63 + 20 '
     },
     {
       name: '11',
-      img: "He's been in the egg too long. "
+      img: "83 "
     },
     {
       name: '12',
-      img: 'Därför har han inte fått den rätta formen. '
+      img: '65 - 23 '
     },
     {
       name: '12',
-      img: 'Therefore, he has not been given the right form.'
+      img: '42'
     }
   ]
 

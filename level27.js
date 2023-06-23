@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Hon värpte snällt och gumman höll av henne som sitt eget barn.'
+      img: '56 - 25'
     },
     {
       name: '1',
-      img: 'She gave birth nicely and the old woman cared for her like her own child.'
+      img: '31'
     },
     {
       name: '2',
-      img: 'På morgonen märkte man snabbt den främmande ankungen och katten började spinna och hönan kackla.'
+      img: '29 + 31'
     },
     {
       name: '2',
-      img: 'In the morning, the strange duckling was quickly noticed and the cat began to purr and the hen to cluck.'
+      img: '60'
     },
     {
       name: '3',
-      img: 'Vad för något! '
+      img: '65 - 32 '
     },
     {
       name: '3',
-      img: 'What! '
+      img: '33 '
     },
     {
       name: '4',
-      img: 'sade gumman och såg sig runt omkring. '
+      img: '10 + 120 '
     },
     {
       name: '4',
-      img: 'said the old woman, looking around.'
+      img: '130'
     },
     {
       name: '5',
-      img: 'Men hon såg inte så bra och så trodde hon, att ankungen var en fet anka, som hade kommit vilse.'
+      img: '64 - 33'
     },
     {
       name: '5',
-      img: "But she couldn't see very well and so she thought the duckling was a fat duck that had gotten lost. "
+      img: "31"
     },
     {
       name: '6',
-      img: 'Det var ju en rar fångst! sade hon.'
+      img: '38 - 14'
     },
     {
       name: '6',
-      img: ' It was a rare catch! she said.'
+      img: ' 24'
     },
     {
       name: '7',
-      img: 'Nu kan jag få ankägg, bara det inte är en ankhanne. '
+      img: '64 + 33 '
     },
     {
       name: '7',
-      img: "Now I can get duck eggs, as long as it's not a male duck. "
+      img: "97 "
     },
     {
       name: '8',
-      img: 'Det måste vi pröva.'
+      img: '6 231 - 3 000'
     },
     {
       name: '8',
-      img: 'We have to try that.'
+      img: '3 231'
     },
     {
       name: '9',
-      img: 'Och så blev ankungen antagen på prov i tre veckor men det blev inga ägg. '
+      img: '25 + 33 '
     },
     {
       name: '9',
-      img: 'And so the duckling was accepted for testing for three weeks, but there were no eggs. '
+      img: '58 '
     },
     {
       name: '10',
-      img: "Katten var herre i huset, och hönan var fru och alltid sade de:"
+      img: "58 + 3 "
     },
     {
       name: '10',
-      img: ' The cat was the master of the house, and the hen was the wife, and they always said:  '
+      img: '61  '
     },
     {
       name: '11',
-      img: 'Vi och världen! De trodde, att de utgjorde hälften av den och det var den allra bästa delen.      '
+      img: '37 - 22'
     },
     {
       name: '11',
-      img: 'We and the world!They thought they made up half of it and that was the very best part.'
+      img: '15'
     },
     {
       name: '12',
-      img: 'Ankungen tyckte, att man också kunde ha en annan åsikt, men det kunde hönan inte tåla.'
+      img: '72 + 4'
     },
     {
       name: '12',
-      img: 'The duckling thought that you could also have a different opinion, but the hen could not stand that.'
+      img: '76'
     }
   ]
 

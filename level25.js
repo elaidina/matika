@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Och modern sa: '
+      img: '23 + 50 '
     },
     {
       name: '1',
-      img: 'And the mother said: '
+      img: '73'
     },
     {
       name: '2',
-      img: ' Om du ändå vore långt härifrån! '
+      img: ' 75 - 23 '
     },
     {
       name: '2',
-      img: 'If only you were far from here!'
+      img: '52'
     },
     {
       name: '3',
-      img: 'Ankorna bet honom, hönsen hackade honom och pigan, som skulle ge djuren mat, sparkade till honom med foten.'
+      img: '40 + 35'
     },
     {
       name: '3',
-      img: 'The ducks bit him, the chickens pecked at him, and the maid who was supposed to feed the animals kicked him with her foot.'
+      img: '75'
     },
     {
       name: '4',
-      img: 'Då sprang och flög han över staketet.'
+      img: '92 - 40'
     },
     {
       name: '4',
-      img: 'Then he ran and flew over the fence.'
+      img: '52'
     },
     {
       name: '5',
-      img: ' De små fåglarna i buskarna for förskräckta upp i luften.'
+      img: '52 + 43'
     },
     {
       name: '5',
-      img: 'The little birds in the bushes flew into the air in terror.'
+      img: '95'
     },
     {
       name: '6',
-      img: ' Det är för att jag är så ful, tänkte ankungen och slöt till ögonen, men sprang ändå framåt. '
+      img: '67 - 35 '
     },
     {
       name: '6',
-      img: " It's because I'm so ugly, thought the duckling, closing his eyes, but still running forward. "
+      img: " 32"
     },
     {
       name: '7',
-      img: 'Så kom han ut till den stora mossen, där änderna bodde. '
+      img: '47 - 15 '
     },
     {
       name: '7',
-      img: 'Then he came out to the big bog, where the ducks lived.'
+      img: '32'
     },
     {
       name: '8',
-      img: 'Här låg han hela natten, han var så trött och sorgsen.      '
+      img: '24 - 3      '
     },
     {
       name: '8',
-      img: 'Here he lay all night, he was so tired and sad.'
+      img: '21'
     },
     {
       name: '9',
-      img: 'Om morgonen flög änderna upp och de såg på den nya kamraten.'
+      img: '63 - 50'
     },
     {
       name: '9',
-      img: 'In the morning the ducks flew up and they looked at the new companion.  '
+      img: '13  '
     },
     {
       name: '10',
-      img: 'Vad är du för en?'
+      img: '826 + 4 000'
     },
     {
       name: '10',
-      img: 'What kind of one are you?'
+      img: '4 826'
     },
     {
       name: '11',
-      img: 'frågade de och ankungen vände sig åt alla sidor och hälsade så gott han kunde.'
+      img: '56 - 33'
     },
     {
       name: '11',
-      img: 'they asked, and the duckling turned in all directions and saluted as best he could.'
+      img: '23'
     },
     {
       name: '12',
-      img: 'Du är innerligt ful! sade änderna, men det kan då göra oss det samma, bara du inte gifter dig in i vår familj.'
+      img: '33 + 60'
     },
     {
       name: '12',
-      img: "You are deeply ugly! said the ducks, but it might do the same to us, as long as you don't marry into our family."
+      img: "93"
     }
   ]
 

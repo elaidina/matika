@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Kan du lägga ägg? frågade hon.'
+      img: '40 - 60'
     },
     {
       name: '1',
-      img: 'Can you lay eggs? she asked.'
+      img: '-20'
     },
     {
       name: '2',
-      img: 'Nej!'
+      img: '22 + 60'
     },
     {
       name: '2',
-      img: ' No!'
+      img: ' 82'
     },
     {
       name: '3',
-      img: 'Nå, håll då munnen på dig ! '
+      img: '58 - 41 '
     },
     {
       name: '3',
-      img: 'Well, then keep your mouth shut! '
+      img: '17'
     },
     {
       name: '4',
-      img: 'Och katten sade: Kan du skjuta rygg, spinna och gnistra?'
+      img: '75 - 14'
     },
     {
       name: '4',
-      img: 'And the cat said: Can you push back, purr and sparkle?'
+      img: '61'
     },
     {
       name: '5',
-      img: 'Ja, då skall du inte ha någon åsikt, då förståndigt folk talar!'
+      img: '53 - 42'
     },
     {
       name: '5',
-      img: "Yes, then you shouldn't have any opinion, when sensible people speak!"
+      img: "11"
     },
     {
       name: '6',
-      img: 'Och ankungen satt i sin vrå och var på dåligt humör.'
+      img: '580 - 520'
     },
     {
       name: '6',
-      img: 'And the duckling sat in his corner and was in a bad mood. '
+      img: '60 '
     },
     {
       name: '7',
-      img: 'Plötsligt kom han att tänka på friska luften och solskenet Och fick lust att flyta på vattnet.'
+      img: '45 + 14'
     },
     {
       name: '7',
-      img: 'Suddenly he thought of the fresh air and the sunshine And felt like floating on the water.'
+      img: '59'
     },
     {
       name: '8',
-      img: 'Slutligen kunde han inte låta bli att säga det till hönan.'
+      img: '34 + 2'
     },
     {
       name: '8',
-      img: "Finally, he couldn't help but tell the hen."
+      img: "36"
     },
     {
       name: '9',
-      img: 'Vad går åt dig? frågade hon. '
+      img: '32 + 24 '
     },
     {
       name: '9',
-      img: "What's wrong with you? she asked."
+      img: "56"
     },
     {
       name: '10',
-      img: 'Du har ingenting att göra, därför får du de där infallen. '
+      img: '38 - 30 '
     },
     {
       name: '10',
-      img: "You have nothing to do, that's why you get those whims. "
+      img: "8 "
     },
     {
       name: '11',
-      img: 'Lägg ägg eller spinn, så gå det över!'
+      img: '89 + 12'
     },
     {
       name: '11',
-      img: "Lay eggs or spin, and it's over!"
+      img: "101"
     },
     {
       name: '12',
-      img: 'Men det är så härligt att flyta på vattnet!'
+      img: '55 + 37'
     },
     {
       name: '12',
-      img: 'But it is so wonderful to float on the water! '
+      img: '92 '
     }
   ]
 
