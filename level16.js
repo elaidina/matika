@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: '90 : 10 '
+      img: '90 : 9 '
     },
     {
       name: '1',
-      img: "9" 
+      img: "10" 
     },
     {
       name: '2',
@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '36 : 4 '
+      img: '36 : 9 '
     },
     {
       name: '5',
-      img: "9"
+      img: "4"
     },
     {
       name: '6',
@@ -59,11 +59,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: '72 : 8'
+      img: '8 : 8'
     },
     {
       name: '8',
-      img: '9'
+      img: '1'
     },
     {
       name: '9',

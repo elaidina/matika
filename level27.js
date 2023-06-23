@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: '64 - 33'
+      img: '64 - 32'
     },
     {
       name: '5',
-      img: "31"
+      img: "32"
     },
     {
       name: '6',

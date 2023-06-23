@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: '-50'
+      img: '-25'
     },
     {
       name: '7',
