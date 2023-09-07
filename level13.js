@@ -75,11 +75,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '91'
+      img: '90'
     },
     {
       name: '10',
-      img: '33 + 58'
+      img: '32 + 58'
     },
     {
       name: '11',
